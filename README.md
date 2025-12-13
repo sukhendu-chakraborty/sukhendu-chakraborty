@@ -4,6 +4,8 @@
 
 I'm an engineering student passionate about **Machine Learning**, **AI**, and **full‑stack development**. I love building practical projects and learning new technologies. I'm adaptable, punctual, and a good listener — always improving my communication skills and public speaking.
 
+[Portfolio Website](https://sukhendu-chakraborty.vercel.app/)
+
 ---
 
 ## 🎯 Current Goals
@@ -18,7 +20,7 @@ I'm an engineering student passionate about **Machine Learning**, **AI**, and **
 
 * **Languages:** Python, JavaScript, C++
 * **ML / AI:** Numpy, Pandas, Scikit‑Learn, TensorFlow (learning)
-* **Web:** React, Node.js, Express.js
+* **Web:** React, Node.js
 * **Databases:** MongoDB, SQL
 * **Tools:** Git, GitHub, VS Code, Postman
 
