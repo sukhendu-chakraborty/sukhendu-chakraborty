@@ -38,11 +38,6 @@ I'm an engineering student passionate about **Machine Learning**, **AI**, and **
 ## 📊 Profile Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sukhendu-chakraborty&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?usernamesukhendu-chakraborty&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=sukhendu-chakraborty&theme=tokyonight&hide_border=true"/>
 </p>
 
