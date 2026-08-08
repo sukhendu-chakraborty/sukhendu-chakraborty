@@ -35,7 +35,7 @@ I'm an engineering student passionate about **Machine Learning**, **AI**, and **
 
 ---
 
-![sukhendu-chakraborty's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukhendu-chakraborty&show_icons=true&theme=radical)
+![sukhendu-chakraborty's GitHub stats](https://github-readme-stats.vercel.app/api?username=sukhendu-chakraborty&hide=contribs,prs)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernamesukhendu-chakraborty&hide=contribs,prs)
 
 ## 📫 Contact Me
 
