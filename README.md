@@ -30,7 +30,6 @@ I'm an engineering student passionate about **Machine Learning**, **AI**, and **
 
 * [Popcorn Panda](https://popcorn-panda.streamlit.app/) : A movie reccomendation system
 * [BimarBanda AI](https://bimar-banda.vercel.app/) : An AI-powered healthcare web platform
-* [Hisab Kia ?](https://t.me/The_Ultimate_Hisab_bot) : Hisab Kia is a telegram bot for easy expense tracking and personal finance management
 
 
 ---
