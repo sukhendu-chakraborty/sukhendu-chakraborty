@@ -40,7 +40,7 @@ I'm an engineering student passionate about **Machine Learning**, **AI**, and **
   <img src="https://streak-stats.demolab.com?user=sukhendu-chakraborty&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 📫 Contact Me
+## 📫  Contact Me
 
 * **Email:** *sukhenduchakraborty831@gmail.com*
 <p align="left">
